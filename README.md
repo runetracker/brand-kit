@@ -5,6 +5,7 @@
 |                    | [72,673,437][link-parent]  | 852,835        | 2                | 675,335,000,000,000 | Uncommon Alpha | 5                  |
 | [72,673,437][link-parent] | [72,926,699][link-child]  | *853,358*      | 1                | 250,535,799,999,999 | Omega          | 33                 |
 
+> The block numbers contain only the digits 3, 5 and 8. The only exception is one instance of the number 2.
 
 > For the inscription of the `RUNE TRACKER` image a fee rate of *33* sats/vB was paid with a special reason:
 > 
