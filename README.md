@@ -1,8 +1,11 @@
-# runetracker brand kit
+# Runetracker Brand Kit
 
 <p align="center"><img src="https://raw.githubusercontent.com/runetracker/brand-kit/main/logo-runetracker-def.svg" width="246"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/runetracker/brand-kit/main/logo-runetracker-wordmark-def.svg" width="407"></p>
 
+## Inscriptions
+
+The Runetracker logo was inscribed forever on the Bitcoin blockchain:
 
 | Parent             | Ordinals Inscription   | Block          | # in Block       | Sat number       | Sattributes    | Fee (sats/vB)      |
 |--------------------|------------------------|----------------|------------------|------------------|----------------|--------------------|
