@@ -12,6 +12,10 @@
 > 
 > It represents pure love and a strong drive to make a positive difference in the world.
 
+> Block *853,358* was also chosen with a reason:
+>
+> The number *853,358* is a palindrome, it reads the same forward and backword and it has the number *33* right in the middle.
+
 
 
 
