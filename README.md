@@ -8,7 +8,7 @@
 The Runetracker logo was inscribed forever on the Bitcoin blockchain.
 
 It consists of two parts:
-- The logo with the footstep
+- The wheel logo with the footstep
 - The wordmark `RUNE TRACKER`
 
 The logo was insrcibed on an `uncommon` `Alpha` sat and the second part on an `Omega` rare sat.  
