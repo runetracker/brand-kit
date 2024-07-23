@@ -5,7 +5,14 @@
 
 ## Inscriptions
 
-The Runetracker logo was inscribed forever on the Bitcoin blockchain:
+The Runetracker logo was inscribed forever on the Bitcoin blockchain.
+
+It consists of two parts:
+- The logo with the footstep
+- The wordmark `RUNE TRACKER`
+
+The logo was insrcibed on an `uncommon` `Alpha` sat and the second part on an `Omega` rare sat.
+Alpha and Omega are the first and last letters of the Greek alphabet.
 
 | Parent             | Ordinals Inscription   | Block          | # in Block       | Sat number       | Sattributes    | Fee (sats/vB)      |
 |--------------------|------------------------|----------------|------------------|------------------|----------------|--------------------|
