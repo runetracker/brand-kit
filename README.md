@@ -1,5 +1,9 @@
 # runetracker brand kit
 
+<p align="center"><img src="https://raw.githubusercontent.com/runetracker/brand-kit/main/logo-runetracker-def.svg" width="246"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/runetracker/brand-kit/main/logo-runetracker-wordmark-def.svg" width="407"></p>
+
+
 | Parent             | Ordinals Inscription   | Block          | # in Block       | Sat number       | Sattributes    | Fee (sats/vB)      |
 |--------------------|------------------------|----------------|------------------|------------------|----------------|--------------------|
 |                    | [72,673,437][link-parent]  | 852,835        | 2                | 675,335,000,000,000 | Uncommon Alpha | 5                  |
